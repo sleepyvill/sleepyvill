@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  I am a self-driven developer with a passion for creating high-performance, resilient, and scalable systems. My expertise lies in backend development, where I leverage a diverse toolkit to build efficient and elegant solutions.
+  Lazy as fck
 </p>
 
 ---
