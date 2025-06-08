@@ -1,47 +1,93 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A382E4¢er=true&vCenter=true&width=550&lines=Hi%2C+I'm+Vi+%F0%9F%91%8B;A+Developer+Focused+on+Performance+%26+Precision;Architecting+Robust+%26+Scalable+Solutions" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=957FB8¢er=true&vCenter=true&width=450&lines=Hi%2C+I'm+Vi+%F0%9F%91%8B;Nocturnal+Developer+%26+System+Architect;Building+the+web's+digital+backbone." alt="Typing SVG" />
-
-<a href="https://github.com/sleepyvill">
-    <img src="https://lanyard.cnrad.dev/api/1363156391866401070?theme=dark&bg=0d1117&borderRadius=8px&idleMessage=most%20likely%20asleep">
-</a>
-
-> A developer focused on building robust, efficient, and scalable systems.
-
----
-
-### My Digital Toolkit
-
-<p>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="Lua" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-</p>
-
----
-
-### Contribution & Activity Graph
-
-<img src="https://github-readme-stats.vercel.app/api?username=sleepyvill&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=957FB8&icon_color=957FB8&text_color=c9d1d9&hide_border=true" alt="Vi's GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyvill&layout=compact&bg_color=0d1117&title_color=957FB8&text_color=c9d1d9&hide_border=true&langs_count=7" alt="Vi's Top Languages" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sleepyvill&background=0d1117&stroke=c9d1d9&ring=957FB8&fire=957FB8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="Vi's GitHub Streak" />
-
----
-
-<p>
+<div align="center">
   <a href="https://discord.com/users/1363156391866401070">
     <img src="https://img.shields.io/badge/Discord-%40promethazineluvr-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-   
   <a href="mailto:warped@mailhaven.su">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</div>
+
+---
+
+<p align="center">
+  I am a self-driven developer with a passion for creating high-performance, resilient, and scalable systems. My expertise lies in backend development, where I leverage a diverse toolkit to build efficient and elegant solutions.
 </p>
 
+---
+
+### **Languages & Technologies**
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#--">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#--">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#--">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" width="40" height="40" alt="Lua" />
+      </a>
+      <br>Lua
+    </td>
+    <td align="center" width="96">
+      <a href="#--">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust" />
+      </a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#--">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40" height="40" alt="Go" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#--">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#--">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+      </a>
+      <br>C#
+    </td>
+  </tr>
+</table>
+
+---
+
+### **GitHub Statistics & Activity**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sleepyvill&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=A382E4&icon_color=A382E4&text_color=c9d1d9&hide_border=true" alt="Vi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyvill&layout=compact&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Vi's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sleepyvill&background=00000000&stroke=c9d1d9&ring=A382E4&fire=A382E4&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="Vi's GitHub Streak" />
+</div>
+
+---
+
+### **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sleepyvill&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/sleepyvill/sleepyvill/raw/output/github-contribution-grid-snake.svg" alt="contribution snake">
 </div>
