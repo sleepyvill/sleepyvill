@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A382E4¢er=true&vCenter=true&width=550&lines=Hi%2C+I'm+Vi+%F0%9F%91%8B;A+Developer+Focused+on+Performance+%26+Precision;Architecting+Robust+%26+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280§ion=header&text=Vi&fontAlign=60&fontAlignY=30&fontSize=90&fontColor=A382E4&desc=A%20Developer%20Focused%20on%20Performance%20&%20Precision&descAlignY=60&descAlign=50" alt="Header Banner"/>
 </div>
 
 <div align="center">
@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
----
 
 <p align="center">
   I am a self-driven developer with a passion for creating high-performance, resilient, and scalable systems. My expertise lies in backend development, where I leverage a diverse toolkit to build efficient and elegant solutions.
@@ -24,45 +22,31 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#--">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#--">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#--">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" alt="Lua" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" alt="Lua" />
       <br>Lua
     </td>
     <td align="center" width="96">
-      <a href="#--">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="96">
-      <a href="#--">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40" height="40" alt="Go" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40" height="40" alt="Go" />
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#--">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#--">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
       <br>C#
     </td>
   </tr>
@@ -70,20 +54,43 @@
 
 ---
 
-### **GitHub Statistics & Activity**
-
+### **GitHub Statistics & Coding Activity**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sleepyvill&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=A382E4&icon_color=A382E4&text_color=c9d1d9&hide_border=true" alt="Vi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyvill&layout=compact&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Vi's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sleepyvill&background=00000000&stroke=c9d1d9&ring=A382E4&fire=A382E4&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="Vi's GitHub Streak" />
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sleepyvill&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=A382E4&icon_color=A382E4&text_color=c9d1d9&hide_border=true" />
+      </td>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyvill&layout=compact&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true&langs_count=8" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sleepyvill&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true" />
+      </td>
+    </tr>
+     <tr>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepyvill&background=00000000&stroke=c9d1d9&ring=A382E4&fire=A382E4&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
+      </td>
+      <td width="50%">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sleepyvill&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### **GitHub Trophies**
+### **Recent Activity Graph**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sleepyvill&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sleepyvill&bg_color=0d1117&color=c9d1d9&line=A382E4&point=A382E4&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sleepyvill&label=Profile+Views&color=A382E4&style=flat-square" alt="Profile Views Counter"/>
 </div>
 
 ---
