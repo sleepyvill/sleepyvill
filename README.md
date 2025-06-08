@@ -37,13 +37,13 @@
     </td>
     <td align="center" width="96">
       <a href="#--">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" width="40" height="40" alt="Lua" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg" width="40" height="40" alt="Lua" />
       </a>
       <br>Lua
     </td>
     <td align="center" width="96">
       <a href="#--">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
       </a>
       <br>Rust
     </td>
@@ -89,5 +89,9 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/sleepyvill/sleepyvill/raw/output/github-contribution-grid-snake.svg" alt="contribution snake">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sleepyvill/sleepyvill/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sleepyvill/sleepyvill/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sleepyvill/sleepyvill/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
