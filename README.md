@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280%C2%A7ion=header&text=Vi%20-%20&fontAlign=25&fontAlignY=70&fontSize=90&fontColor=A382E4&desc=A%20Developer%20from%20the%20Philippines&descAlignY=70&descAlign=50" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280§ion=header&text=Vi&fontAlign=60&fontAlignY=30&fontSize=90&fontColor=A382E4&desc=A%20Developer%20from%20the%20Philippines&descAlignY=60&descAlign=50" alt="Header Banner"/>
 </div>
 
 <div align="center">
@@ -54,20 +54,15 @@
 
 ---
 
-### **GitHub Statistics & Coding Activity**
+### **GitHub Statistics**
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sleepyvill&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=A382E4&icon_color=A382E4&text_color=c9d1d9&hide_border=true" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sleepyvill&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=A382E4&icon_color=A382E4&text_color=c9d1d9&hide_border=true" />
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sleepyvill&layout=compact&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true&langs_count=8" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=sleepyvill&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyvill&layout=compact&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true&langs_count=8" />
       </td>
     </tr>
      <tr>
