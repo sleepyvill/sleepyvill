@@ -59,15 +59,15 @@
   <table width="100%">
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sleepyvill&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=A382E4&icon_color=A382E4&text_color=c9d1d9&hide_border=true" />
+        <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sleepyvill&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=A382E4&icon_color=A382E4&text_color=c9d1d9&hide_border=true" />
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyvill&layout=compact&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true&langs_count=8" />
+        <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sleepyvill&layout=compact&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true&langs_count=8" />
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sleepyvill&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true" />
+        <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=sleepyvill&bg_color=00000000&title_color=A382E4&text_color=c9d1d9&hide_border=true" />
       </td>
     </tr>
      <tr>
