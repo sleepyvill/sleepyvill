@@ -31,7 +31,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" alt="Lua" />
-      <br>Lua
+      <br>Lua(u)
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
