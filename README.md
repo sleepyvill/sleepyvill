@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  Lazy as fck | https://u-phi.vercel.app
+  Lazy | https://u-phi.vercel.app
 </p>
 
 ---
