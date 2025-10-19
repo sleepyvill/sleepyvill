@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  Lazy | https://u-phi.vercel.app
+  Lazy | https://nullified.lol/
 </p>
 
 ---
