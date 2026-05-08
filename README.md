@@ -6,7 +6,7 @@
   <a href="https://discord.com/users/1363156391866401070">
     <img src="https://img.shields.io/badge/Discord-%40sleepyvill-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:warped@mailhaven.su">
+  <a href="mailto:sleepyvill@tuta.io">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
